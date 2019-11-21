@@ -1,4 +1,4 @@
-package com.example.sarthuak.opencv;
+package com.example.srihari.opencv;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
